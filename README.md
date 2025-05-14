@@ -13,7 +13,7 @@
 
 - 📫 Como me contactar **joaovitorpiccolo015@gmail.com**
 
-- 📄 Meu curriculo [https://files.catbox.moe/cop428.pdf](https://files.catbox.moe/cop428.pdf)
+- 📄 Meu curriculo [Curriculo](https://files.catbox.moe/cop428.pdf)
 
 ---
 
