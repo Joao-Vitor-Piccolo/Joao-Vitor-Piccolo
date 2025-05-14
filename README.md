@@ -5,13 +5,11 @@
   <img src="https://files.catbox.moe/k8phvg.png" alt="João Vitor Piccolo Banner" />
 </p>
 
-<img align='right' alt='gif_programming' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+<img align='right' alt='gif_programming' src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="150" width="150">
 
 ---
 
-- 🔭 Atualmente trabalhando com... [fastAPI backend project](https://github.com/Joao-Vitor-Piccolo/fastAPI_backend_project)
-
-- 🌱 Atualmente aprendendo **Angular**
+- Atualmente Trabalhando com... [fastAPI backend project](https://github.com/Joao-Vitor-Piccolo/fastAPI_backend_project)
 
 - 📫 Como me contactar **joaovitorpiccolo015@gmail.com**
 
