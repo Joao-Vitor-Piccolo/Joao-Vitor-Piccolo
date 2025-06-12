@@ -35,7 +35,7 @@
 <ul>
   <li><a href="https://joao-vitor-piccolo.github.io/frontend_site_template_cidade/">Tela de Login/Cadastro (Still In Progress)</a></li>
   <li><a href="https://aegis-pluvial.github.io/gs-front/">Global Solution FrontEnd</a></li>
-  <li><a href="https://front-end-vinharia-agnello.github.io/projeto-vinheria-front/">Vinheiria Agnello</a></li>
+  <li><a href="https://front-end-vinharia-agnello.github.io/projeto-vinheria-front/">Vinheria Agnello</a></li>
   <li><a href="https://joao-vitor-piccolo.github.io/hotel_template/">Landpage para Hotel</a></li>
 </ul>
 
