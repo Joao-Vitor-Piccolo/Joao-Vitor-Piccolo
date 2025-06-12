@@ -9,7 +9,7 @@
 
 ---
 
-- Atualmente Trabalhando com... [fastAPI backend project](https://github.com/Joao-Vitor-Piccolo/fastAPI_backend_project)
+- Atualmente Trabalhando com... [Global_Solution_Backend](https://github.com/Aegis-Pluvial/gs_backend)
 
 - 📫 Como me contactar **joaovitorpiccolo015@gmail.com**
 
